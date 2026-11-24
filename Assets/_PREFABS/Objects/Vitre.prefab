@@ -123,7 +123,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6459514902690071692}
   m_Layer: 0
-  m_Name: Miroir
+  m_Name: Vitre
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

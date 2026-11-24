@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 4730859439822076410}
   - component: {fileID: 1697058638219740125}
   - component: {fileID: 8419930462917793645}
-  - component: {fileID: 5587211617051195226}
   - component: {fileID: 4608604246926813769}
   m_Layer: 0
   m_Name: BoutonSol
@@ -136,19 +135,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0.5, z: 0}
---- !u!114 &5587211617051195226
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5765404446016430927}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d60c68c1d263ac34da4734405a2fe08d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::BoutonSol
-  porte: {fileID: 0}
 --- !u!54 &4608604246926813769
 Rigidbody:
   m_ObjectHideFlags: 0
