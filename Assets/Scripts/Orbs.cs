@@ -55,8 +55,6 @@ public class OrbeCollect : MonoBehaviour
             // Incrémente le compteur du groupe
             compteurs[idGroupe]++;
 
-            Debug.Log("Groupe " + idGroupe + " : " + compteurs[idGroupe] + "/" + Nb_Orbes);
-
             // Vérifie si toutes les orbes sont récupérées
             if (compteurs[idGroupe] >= Nb_Orbes)
             {
